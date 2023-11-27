@@ -1,4 +1,4 @@
-## <h1 align=center> Mexican Toy StoreReport
+## <h1 align=center> Mexican Toy Store Report
 # <h1 align=center> Analytics Project
 
 <p align="center">
