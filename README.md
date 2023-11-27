@@ -8,6 +8,8 @@
 
 The Project had the purpose of showing the number of orders that the company had between January 2022 until September 2023. There was a need to know how much income was obtained in each month as well as profits by location and product category.
 
+Datasets: Multiple tables in .cvs files with 829,263 records. (You can find them in the "Datasets" Folder.
+
 There are 50 stores throughout 29 cities, distributed in 4 types of locations (Airport, Commercial, Downtown and Residential).
 
 There are 35 products, classified into 5 categories (Art & Crafts, Electronics, Games, Sports & Outdoors and toys).
@@ -21,8 +23,14 @@ There were gains throughout the analyzed time range (January 2022 to September 2
 
 Stores that have run out of stock of some of their products: Aguascalientes, Chilpancingo, Ciudad Victoria, Cuernavaca, Culiacán, Guadalajara, La Paz, Mérida, Mexicali, Morelia, Oaxaca, Pachuca, San Luis Potosí, Tuxtla Gutiérrez, Villahermosa and Zacatecas.
 
-Made with Power BI.
+The whole EDA and ETL processes were made in Power BI.
 
-You can check the "Toy Store Report.pbix" file to interac with the Dashboard.
+<p align="center">
+<img src=https://github.com/janicerico/Mexican_Toy_Store_Report/assets/109157476/70db8333-ffd2-4fa6-909e-ae9ac2fb284d>
+
+<p align="center">
+<img src=https://github.com/janicerico/Mexican_Toy_Store_Report/assets/109157476/a80fc948-3354-4909-91bb-cad91ea978ee>
+
+Check the "Toy Store Report.pbix" file to interac with Dashboards.
 
 Data Source: Maven Analytics.
