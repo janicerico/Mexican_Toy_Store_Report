@@ -8,7 +8,7 @@
 
 The Project had the purpose of showing the number of orders that the company had between January 2022 until September 2023. There was a need to know how much income was obtained in each month as well as profits by location and product category.
 
-Datasets: Multiple tables in .cvs files with 829,263 records. (You can find them in the "Datasets" Folder).
+Datasets: Multiple tables in .cvs files with 829,263 records. From Maven Analytics. (You can find them in the "Datasets" Folder).
 
 There are 50 stores throughout 29 cities, distributed in 4 types of locations (Airport, Commercial, Downtown and Residential).
 
